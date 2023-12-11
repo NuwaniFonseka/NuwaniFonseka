@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwanifonseka&label=Profile%20views&color=0e75b6&style=flat" alt="nuwanifonseka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka" alt="nuwanifonseka" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img ![Uploading Blue Tosca Geometric Technology Linkedln Banner.png…]()
+src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka" alt="nuwanifonseka" /></a> </p>
 
 - 🌱 I’m currently learning **Python,Flutter,Animations and Mern Stack**
 
