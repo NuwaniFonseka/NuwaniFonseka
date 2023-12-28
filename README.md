@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka" alt="nuwanifonseka" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Flutter,Animations and Mern Stack**
+- 🌱 I’m currently learning **MERN, KOTLIN, PYTHON**
 
-- 💬 Ask me about **Web**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **nuwaniprasansa@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **Call me as Fonsi :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
