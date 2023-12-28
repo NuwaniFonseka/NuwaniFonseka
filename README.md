@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nuwaniprasansa@gmail.com**
 
-- ⚡ Fun fact **Call me as Fonsi :)**
+- ⚡ Fun fact **My birthday is on April 1st :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
