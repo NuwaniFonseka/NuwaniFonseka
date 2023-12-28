@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuwani Fonseka</h1>
-<h3 align="center">A passionate Software developer from Sri Lanka</h3>
+<h3 align="center">A passionate IT student from Sri Lanka</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka" alt="nuwanifonseka" /></a> </p>
 
