@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nuwani fonseka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwani fonseka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nuwani fonseka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwani fonseka" height="50" width="50" /></a>
 <a href="https://fb.com/nuwani fonseka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nuwani fonseka" height="30" width="40" /></a>
 <a href="https://instagram.com/nuwanifonsekaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuwanifonsekaa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nuwanifonseka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuwanifonseka" height="30" width="40" /></a>
