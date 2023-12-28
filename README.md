@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nuwani Fonseka</h1>
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
+<h3 align="center">![image title](https://rushter.com/counter.svg) </h3>
+<h3 align="center">Cache-Control: max-age=0, no-cache, no-store, must-revalidate</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka" alt="nuwanifonseka" /></a> </p>
 
