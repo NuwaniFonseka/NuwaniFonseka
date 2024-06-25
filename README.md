@@ -1,4 +1,4 @@
-[![Masterhead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)](https://github.com/nuwanifonseka)
+[![Masterhead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://github.com/your-username)
 
 <h1 align="center">Hi 👋, I'm Nuwani Fonseka</h1>
 <h3 align="center">A passionate IT undergraduate</h3>
@@ -7,15 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka" alt="nuwanifonseka" /></a> </p>
 
-
 - 🌱 I’m currently learning **MERN, KOTLIN**
-
 - 💬 Ask me about **WEB DEVELOPMENT**
-
 - 📫 How to reach me **nuwaniprasansa@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/](https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/)
-
 - ⚡ Fun fact **My birthday is on April 1st**
 
 <h3 align="left">Connect with me:</h3>
