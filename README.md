@@ -5,13 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwanifonseka&label=Profile%20views&color=0e75b6&style=flat" alt="nuwanifonseka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka" alt="nuwanifonseka" /></a> </p>
+<h3 align="left">GitHub Trophies 🏆</h3>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka&theme=dracula&column=4&margin-w=10&margin-h=10" alt="nuwanifonseka" />
+  </a>
+</p>
+<h3 align="left">About Me:</h3>
 
 - 🌱 I’m currently learning **MERN, KOTLIN**
 - 💬 Ask me about **WEB DEVELOPMENT**
-- 📫 How to reach me **nuwaniprasansa@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/](https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/)
-- ⚡ Fun fact **My birthday is on April 1st**
+- 📫 How to reach me: **nuwaniprasansa@gmail.com**
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/)
+- ⚡ Fun fact: **My birthday is on April 1st**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
