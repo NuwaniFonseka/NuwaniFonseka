@@ -13,7 +13,7 @@
 </p>
 <h3 align="left">About Me:</h3>
 
-- 🌱 I’m currently learning **MERN, KOTLIN**
+- 🌱 I’m currently learning **FLUTTER,ANGULAR**
 - 💬 Ask me about **WEB DEVELOPMENT**
 - 📫 How to reach me: **nuwaniprasansa@gmail.com**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/)
