@@ -1,4 +1,3 @@
-[![Masterhead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://github.com/your-username)
 
 <h1 align="center">Hi 👋, I'm Nuwani Fonseka</h1>
 <h3 align="center">A passionate IT undergraduate</h3>
@@ -11,13 +10,26 @@
     <img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka&theme=dracula&column=4&margin-w=10&margin-h=10" alt="nuwanifonseka" />
   </a>
 </p>
-<h3 align="left">About Me:</h3>
 
-- 🌱 I’m currently learning **FLUTTER,ANGULAR**
-- 💬 Ask me about **WEB DEVELOPMENT**
-- 📫 How to reach me: **nuwaniprasansa@gmail.com**
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/)
-- ⚡ Fun fact: **My birthday is on April 1st**
+<h3 align="left">About Me:</h3>
+<div align="left">
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+      <ul>
+        <li>🌱 I’m currently learning <strong>FLUTTER, ANGULAR</strong></li>
+        <li>💬 Ask me about <strong>WEB DEVELOPMENT</strong></li>
+        <li>📫 How to reach me: <strong>nuwaniprasansa@gmail.com</strong></li>
+        <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/"><strong>LinkedIn</strong></a></li>
+        <li>⚡ Fun fact: <strong>My birthday is on April 1st</strong></li>
+      </ul>
+    </div>
+    <div style="flex: 1; text-align: right;">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" alt="coding gif" width="400" height="350" />
+    </div>
+  </div>
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
