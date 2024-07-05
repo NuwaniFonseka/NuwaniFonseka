@@ -6,8 +6,7 @@
 
 <h3 align="left">GitHub Trophies 🏆</h3>
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka&theme=dracula&column=4&margin-w=10&margin-h=10" alt="nuwanifonseka" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka&theme=dracula&column=4&margin-w=10&margin-h=10" alt="nuwanifonseka" />
 </p>
 
 <h3 align="left">About Me:</h3>
