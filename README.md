@@ -23,9 +23,7 @@
         <li>⚡ Fun fact: <strong>My birthday is on April 1st</strong></li>
       </ul>
     </div>
-    <div style="flex: 1; text-align: right;">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" alt="coding gif" width="400" height="350" />
-    </div>
+   
   </div>
 </div>
 
