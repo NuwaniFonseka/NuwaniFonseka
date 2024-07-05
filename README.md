@@ -6,7 +6,7 @@
 
 <h3 align="left">GitHub Trophies 🏆</h3>
 <p align="left">
- [ <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
     <img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka&theme=dracula&column=4&margin-w=10&margin-h=10" alt="nuwanifonseka" />
   </a>
 </p>
