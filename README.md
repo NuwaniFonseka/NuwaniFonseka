@@ -15,11 +15,9 @@
   <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
       <ul>
-        <li>🌱 I’m currently learning <strong>FLUTTER, ANGULAR</strong></li>
-        <li>💬 Ask me about <strong>WEB DEVELOPMENT</strong></li>
+        <li>🌱 I’m currently learning <strong>FLUTTER, Next.js</strong></li>
         <li>📫 How to reach me: <strong>nuwaniprasansa@gmail.com</strong></li>
         <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/"><strong>LinkedIn</strong></a></li>
-        <li>⚡ Fun fact: <strong>My birthday is on April 1st</strong></li>
       </ul>
     </div>
    
