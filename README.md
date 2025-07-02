@@ -31,9 +31,7 @@
 <h3 align="left">🚀 Current Focus:</h3>
 <p>
   🎯 Building scalable web applications with MERN Stack<br/>
-  🐳 Containerizing applications with Docker<br/>
-  ☸️ Learning Kubernetes for orchestration<br/>
-  📱 Developing cross-platform mobile apps<br/>
+  🐳 Containerizing applications with Docker and orchestration using Kubernetes<br/>
   ☁️ Exploring AWS & Cloud Architecture
 </p>
 
@@ -55,8 +53,8 @@
 
 <h3 align="left">🛠️ MERN Stack & Web Technologies:</h3>
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.gif" alt="mongodb" width="60" height="60"/> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif" alt="html5" width="60" height="60"/> 
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="60" height="60"/> 
@@ -113,8 +111,8 @@
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU0OWFwMDByamg0YjN1YXB5OGVma2hmOGJrZ3JnOXF1ZmZmZjJ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lmy23L3RkJ0sEWokRN/giphy.webp" alt="android" width="60" height="60"/> 
   </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.dribbble.com/users/7094769/screenshots/16379061/media/27d863079a1c8955e2664197d600763d.gif" alt="kotlin" width="60" height="60"/> 
-  </a>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="60" height="60"/> 
+</a> 
 </p>
 
 <h3 align="left">🔧 Programming Languages:</h3>
@@ -129,8 +127,8 @@
     <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="python" width="60" height="60"/> 
   </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.dribbble.com/users/7094769/screenshots/16379061/media/27d863079a1c8955e2664197d600763d.gif" alt="kotlin" width="60" height="60"/> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="60" height="60"/> 
+</a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> 
   </a>
