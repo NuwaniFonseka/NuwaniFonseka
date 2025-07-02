@@ -138,9 +138,9 @@
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
     <img src="https://i.redd.it/nmuax05zxoab1.gif" alt="c" width="60" height="60"/> 
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://lordicon.com/icons/wired/lineal/1319-php-code-language.gif" alt="php" width="60" height="60"/> 
-  </a>
+ <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> 
+</a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif" alt="html5" width="60" height="60"/> 
   </a>
