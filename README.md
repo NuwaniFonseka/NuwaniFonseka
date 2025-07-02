@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nuwani Fonseka</h1>
-<h3 align="center">Full-Stack Software Engineer & Cloud Enthusiast</h3>
+<h3 align="center">Full-Stack Software Engineering Undergraduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Cloud+%26+DevOps+Learner;Mobile+App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Cloud+%26+DevOps+Learner" alt="Typing SVG" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwanifonseka&label=Profile%20views&color=0e75b6&style=flat" alt="nuwanifonseka" /> </p>
@@ -17,11 +17,10 @@
   <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
       <ul>
-        <li>🔭 I'm currently working on <strong>MERN Stack & Full-Stack Web Applications</strong></li>
-        <li>🌱 I'm currently learning <strong>Docker, Kubernetes, Next.js, Flutter</strong></li>
-        <li>💼 Building projects with <strong>React, Node.js, Express, MongoDB</strong></li>
-        <li>☁️ Exploring <strong>Cloud Technologies & DevOps Practices</strong></li>
-        <li>📱 Mobile development with <strong>Flutter & React Native</strong></li>
+        <li>🎓 <strong>Software Engineering Undergraduate</strong> passionate about full-stack development</li>
+        <li>🔭 Currently working on <strong>Yumly - Food Ordering Web Application</strong> using MERN Stack</li>
+        <li>🌱 Learning <strong>Next.js, .NET</strong> to expand my tech stack</li>
+        <li>☁️ Exploring <strong>Cloud Technologies (AWS), DevOps practices, and Container Orchestration</strong></li>
         <li>📫 How to reach me: <strong>nuwaniprasansa@gmail.com</strong></li>
         <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/"><strong>LinkedIn</strong></a></li>
       </ul>
@@ -67,12 +66,6 @@
   </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="nodejs" width="60" height="60"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" width="60" height="60"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.gif" alt="typescript" width="60" height="60"/> 
   </a>
 </p>
 
@@ -124,29 +117,22 @@
   </a>  
 </p>
 
-<h3 align="left">💾 Database & Backend:</h3>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*Fcb8NTqTBj7kCONnmF5wgQ.gif" alt="mysql" width="60" height="60"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://media.wired.com/photos/641337bd5e3ab3be4fe3e789/master/w_1600%2Cc_limit/sql_normal.gif" alt="sql" width="60" height="60"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> 
-  </a>
-</p>
-
 <h3 align="left">🔧 Programming Languages:</h3>
 <p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" width="60" height="60"/> 
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://media1.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif?cid=6c09b952jiwu3n2b5plthn82yp72nrac1lu5esteciqpy8m1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="java" width="60" height="60"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="python" width="60" height="60"/> 
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://lordicon.com/icons/wired/lineal/1319-php-code-language.gif" alt="php" width="60" height="60"/> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.dribbble.com/users/7094769/screenshots/16379061/media/27d863079a1c8955e2664197d600763d.gif" alt="kotlin" width="60" height="60"/> 
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> 
   </a>
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
     <img src="https://i.redd.it/xxodzo30yoab1.gif" alt="cplusplus" width="60" height="60"/> 
@@ -154,29 +140,31 @@
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
     <img src="https://i.redd.it/nmuax05zxoab1.gif" alt="c" width="60" height="60"/> 
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://lordicon.com/icons/wired/lineal/1319-php-code-language.gif" alt="php" width="60" height="60"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif" alt="html5" width="60" height="60"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="60" height="60"/> 
+  </a>
 </p>
 
-<br/>
+<h3 align="left">🗄️ Database & Query Languages:</h3>
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*Fcb8NTqTBj7kCONnmF5wgQ.gif" alt="mysql" width="60" height="60"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.gif" alt="mongodb" width="60" height="60"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://media.wired.com/photos/641337bd5e3ab3be4fe3e789/master/w_1600%2Cc_limit/sql_normal.gif" alt="sql" width="60" height="60"/> 
+  </a>
+</p>
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuwanifonseka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuwanifonseka&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuwanifonseka&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nuwanifonseka&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
