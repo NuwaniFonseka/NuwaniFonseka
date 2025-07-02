@@ -53,9 +53,9 @@
 
 <h3 align="left">🛠️ MERN Stack & Web Technologies:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif" alt="html5" width="60" height="60"/> 
-  </a>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
+</a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="60" height="60"/> 
   </a>
