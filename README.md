@@ -1,145 +1,130 @@
 <h1 align="center">Hi 👋, I'm Nuwani Fonseka</h1>
-<h3 align="center">Full-Stack Software Engineering Undergraduate</h3>
+<h3 align="center">Full-Stack Software Engineering Undergraduate · Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;MERN+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwanifonseka&label=Profile%20views&color=0e75b6&style=flat" alt="nuwanifonseka" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nuwanifonseka&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nuwaniprasansa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<h3 align="left">GitHub Trophies 🏆</h3>
+---
+
+### 👩‍💻 About Me
+
+- 🎓 **Software Engineering undergraduate** focused on building reliable, scalable full-stack applications.
+- 🔭 Currently building **Yumly** — a food-ordering web application on the **MERN stack**.
+- 🌱 Expanding into **Next.js, TypeScript, GoLang, .NET, and Google Cloud (GCP)**.
+- ☁️ Passionate about **cloud architecture, DevOps practices, and container orchestration**.
+- 🤝 I enjoy writing clean, well-tested, maintainable code and translating technical concepts into clear conversations.
+- 📫 Reach me at **nuwaniprasansa@gmail.com**
+
+---
+
+### 🎯 Current Focus
+
+- Designing and shipping **scalable web applications** with React, Node.js & TypeScript
+- Building **RESTful APIs** with a strong eye on **security best practices**
+- **Containerizing & orchestrating** services with Docker and Kubernetes
+- Exploring **AI-assisted development & automation workflows** (n8n, modern AI tooling)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend & Frameworks**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Cloud, DevOps & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**Currently Learning**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nuwanifonseka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwanifonseka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuwanifonseka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka&theme=tokyonight&column=4&margin-w=10&margin-h=10" alt="nuwanifonseka" />
-</p>
-
-<h3 align="left">About Me:</h3>
-<div align="left">
-  <div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-      <ul>
-        <li>🎓 <strong>Software Engineering Undergraduate</strong> passionate about full-stack development</li>
-        <li>🔭 Currently working on <strong>Yumly - Food Ordering Web Application</strong> using MERN Stack</li>
-        <li>🌱 Learning <strong>Next.js, .NET</strong> to expand my tech stack</li>
-        <li>☁️ Exploring <strong>Cloud Technologies (AWS), DevOps practices, and Container Orchestration</strong></li>
-        <li>📫 How to reach me: <strong>nuwaniprasansa@gmail.com</strong></li>
-        <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/"><strong>LinkedIn</strong></a></li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<h3 align="left">🚀 Current Focus:</h3>
-<p>
-  🎯 Building scalable web applications with MERN Stack<br/>
-  🐳 Containerizing applications with Docker and orchestration using Kubernetes<br/>
-  ☁️ Exploring AWS & Cloud Architecture
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nuwani-fonseka-5a87ba234" target="_blank" rel="noreferrer">
-    <img align="center" src="https://i.pinimg.com/originals/d3/3b/d9/d33bd9baa83a336184055c07dc8ccaa8.gif" alt="LinkedIn" height="40" width="50" />
+  <a href="https://www.linkedin.com/in/nuwani-fonseka-5a87ba234/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-   <a href="https://instagram.com/nuwanifonsekaa" target="_blank" rel="noreferrer">
-    <img align="center" src="https://i.pinimg.com/originals/2c/09/4d/2c094d32daf5a9079a09588004319274.gif" alt="Instagram" height="40" width="50" />
+  <a href="mailto:nuwaniprasansa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.youtube.com/c/nuwani-fonseka" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.dribbble.com/users/844462/screenshots/4042693/youtube-logo.gif" alt="Youtube" height="40" width="50" />
+  <a href="https://www.hackerrank.com/nuwani-fonseka" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://www.hackerrank.com/nuwani-fonseka" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="50" />
+  <a href="https://instagram.com/nuwanifonsekaa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-<h3 align="left">💻 Languages & Frameworks:</h3>
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" width="60" height="60"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://media1.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif?cid=6c09b952jiwu3n2b5plthn82yp72nrac1lu5esteciqpy8m1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="java" width="60" height="60"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="python" width="60" height="60"/> 
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="60" height="60"/> 
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> 
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://i.redd.it/xxodzo30yoab1.gif" alt="cplusplus" width="60" height="60"/> 
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://i.redd.it/nmuax05zxoab1.gif" alt="c" width="60" height="60"/> 
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> 
-  </a>
-  
-  <!-- Web Technologies -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="60" height="60"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="nodejs" width="60" height="60"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="60" height="60"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> 
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> 
-  </a>
-</p>
+---
 
-<h3 align="left">🛠️ Tools & Technologies:</h3>
-<p align="left">
-  <!-- Cloud & DevOps -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> 
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="kubernetes" width="60" height="60"/> 
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-  </a>
-  
-  <!-- Mobile Development -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU0OWFwMDByamg0YjN1YXB5OGVma2hmOGJrZ3JnOXF1ZmZmZjJ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lmy23L3RkJ0sEWokRN/giphy.webp" alt="android" width="60" height="60"/> 
-  </a>
-  
-  <!-- Other Tools -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="bootstrap" width="60" height="60"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="60" height="60"/> 
-  </a>
-</p>
-
-<h3 align="left">🗄️ Databases:</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*Fcb8NTqTBj7kCONnmF5wgQ.gif" alt="mysql" width="60" height="60"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://media.wired.com/photos/641337bd5e3ab3be4fe3e789/master/w_1600%2Cc_limit/sql_normal.gif" alt="sql" width="60" height="60"/> 
-  </a>
-</p>
-
+<p align="center"><i>⭐️ From <a href="https://github.com/nuwanifonseka">nuwanifonseka</a></i></p>
