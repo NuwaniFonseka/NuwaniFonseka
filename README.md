@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuwani Fonseka</h1>
-<h3 align="center">Full-Stack Software Engineering Undergraduate · Sri Lanka</h3>
+<h3 align="center">Software Engineering Graduate · Full-Stack Developer · Sri Lanka</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;MERN+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
