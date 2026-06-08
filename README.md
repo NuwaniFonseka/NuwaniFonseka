@@ -19,21 +19,12 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **Software Engineering undergraduate** focused on building reliable, scalable full-stack applications.
-- 🔭 Currently building **Yumly** — a food-ordering web application on the **MERN stack**.
-- 🌱 Expanding into **Next.js, TypeScript, GoLang, .NET, and Google Cloud (GCP)**.
-- ☁️ Passionate about **cloud architecture, DevOps practices, and container orchestration**.
-- 🤝 I enjoy writing clean, well-tested, maintainable code and translating technical concepts into clear conversations.
+- 🎓 Completed my **BSc (Hons) in Software Engineering** at SLIIT · Graduating **October 2026**
+- 🌱 Expanding into **Next.js, TypeScript, .NET, and Google Cloud (GCP)**.
+- 🐳 Exploring **DevOps practices** — containerization with Docker, orchestration with Kubernetes & CI/CD pipelines.
+- 🤖 Interested in **AI-assisted development** — leveraging modern AI tooling to streamline and enhance development workflows.
+- 🤝 I thrive in **collaborative team environments** — I value accountability, clear communication, and delivering well-tested, maintainable code that the whole team can rely on.
 - 📫 Reach me at **nuwaniprasansa@gmail.com**
-
----
-
-### 🎯 Current Focus
-
-- Designing and shipping **scalable web applications** with React, Node.js & TypeScript
-- Building **RESTful APIs** with a strong eye on **security best practices**
-- **Containerizing & orchestrating** services with Docker and Kubernetes
-- Exploring **AI-assisted development & automation workflows** (n8n, modern AI tooling)
 
 ---
 
@@ -42,7 +33,6 @@
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -54,10 +44,10 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Backend & APIs**
@@ -72,9 +62,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Cloud, DevOps & Tools**
+**DevOps & Tools**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -84,11 +73,9 @@
 
 **Currently Learning**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
 ---
 
 ### 📊 GitHub Stats
