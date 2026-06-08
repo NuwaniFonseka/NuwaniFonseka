@@ -94,16 +94,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nuwanifonseka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwanifonseka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuwanifonseka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nuwanifonseka&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=nuwanifonseka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
